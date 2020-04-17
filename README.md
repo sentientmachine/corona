@@ -17,5 +17,10 @@ With live replica mirror at:
 
 http://machinesentience.com/main.html
 
+
+![Alt text](./screenshot.png?raw=true "screenshot of replica")
+
+
 To deploy it to your side, use `replicate.sh` to drag and drop everything here to your public_html or webroot.
 
+All credit for source code and data go to: mackuba.eu/corona
