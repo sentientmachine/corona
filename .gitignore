@@ -1,0 +1,62 @@
+#Never store password files or anything like it.  Career ending stuff broseph
+.pgpass
+.my.cnf
+any_password_file
+
+#Never store the .git directory or anything underneath it:
+.git/
+
+#don't store virtualenvironment directories called .env
+.env
+
+#pickle files are variable type/data dumps, don't commit them
+*.pckl
+
+#Database files are giant disk images, and don't belong in a repo.
+*.db
+
+#using dbext in vim, or mysql on the terminal sometimes sharts this 'Result' file lol
+Result
+
+#Macbook sharts a .DS_Store on file which is for finder, don't commit that.
+.DS_Store
+._.DS_Store
+
+#vi stuff, don't commit .swp files, tags files, view files
+*.swp
+tags
+*.view
+
+#Sensible Generic stuff, ignore gigantic video files or data csv files
+*.mp4
+*.pdf
+*.gif
+*.csv
+
+#image files are generally not allowed, sometimes, if they're small and light
+*.png
+*.jpg
+*.jpeg
+*.tiff
+
+
+
+#.cast files are halfway ascii files that make images.
+*.cast
+
+#Java Essentials, never store class files, ignore jar war ear Package Files
+*.class
+*.jar
+*.war
+*.ear
+
+#maven stuff, don't include the directory named target
+target
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+${0}
+
