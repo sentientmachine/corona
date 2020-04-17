@@ -7,7 +7,9 @@ https://mackuba.eu/corona/
 
 I figured copyright can take a seat, we need more eyeballs per second on this
 and evolving this sort of stuff.  Social distancing is less effective (not possible?) in more
-population dense areas like New York.  
+population dense areas like New York.  And social distancing is more effective in less
+populated areas, or in areas where people are self-quarantining, and these charts 
+demonstrate shows what is working and what isn't.
 
 So here's a snapshot and replica of the web site as pieced together from Chrome's developer tools.
 
