@@ -1,6 +1,6 @@
-# A Replication and mirror of code and data from https://mackuba.eu/corona
+# Replication of data and code and a mirror for https://mackuba.eu/corona
 
-http://machinesentience.com/covid19
+http://machinesentience.com/covid19.html
 
 ![Alt text](./screenshot.png?raw=true "screenshot of replica")
 
