@@ -16,3 +16,7 @@ AddHandler application/x-javascript .jsp
     Header set Expires 0
 </IfModule>
 
+# Redirect 301 / http://machinesentience.com/covid19.html
+# Redirect 301 /covid19 http://machinesentience.com/covid19.html
+
+#buff up the apache24 mod rewrite helper snippets in my defiant
