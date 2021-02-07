@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#use this command to make it so stuffs below works
+#/usr/bin/sshfs yourusername@173.254.88.123:/home1/machines/ /mnt/machinesentience
+
+
 #This is just a little thingy to move it over to the place where it needs to be to host on external
 #you'll need webspace and some nonzero experience in front end web development
 #mount point has to be set manually
